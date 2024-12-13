@@ -15,3 +15,4 @@ agora o LDR esta captando um valor considerado claro e o fluxo corre normalmente
 
 o serial monitor tambem informa oque esta acontecendo via texto
 
+é possivel acompanhar o prototipo pelo simulador atraves deste link: https://wokwi.com/projects/417166475177227265
